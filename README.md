@@ -13,7 +13,7 @@ Assistente de IA para Pacientes seguindo Dieta com Acompanhamento Profissional.
 
 [Canvas de Identificação do Domínio](/Canvas/Domain_Identification_Model.md) - [Persona Model Canvas](/Canvas/Persona_Model.md)
 
-[Canvas de Mapeamento de Fontes de Dados](/Canvas/Data_Source_Mapping_Model.md) - [Canvas de Objetivos de Projeto](/Canvas/Project_Goals_Model)
+[Canvas de Mapeamento de Fontes de Dados](/Canvas/Data_Source_Mapping_Model.md) - [Canvas de Objetivos de Projeto](/Canvas/Project_Goals_Model.md)
 
 ## Início Rápido
 
