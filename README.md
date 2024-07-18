@@ -1,4 +1,4 @@
-# Oi, Nutri!
+# Oi, Nutri! (Projeto em Andamento...)
 
 [![Status](https://img.shields.io/badge/status-active-success.svg)]()
 [![GitHub Issues](https://img.shields.io/github/issues/IF977/if977-project-standards.svg)](https://github.com/IF977/if977-project-standards/issues)
@@ -7,7 +7,13 @@
 
 ## Descrição
 
-Assistente de IA para pacientes de Nutricionista. 
+Assistente de IA para Pacientes seguindo Dieta com Acompanhamento Profissional. 
+
+## Fase de Imersão
+
+[Canvas de Identificação do Domínio](/Canvas/Domain_Identification_Model.md) - [Persona Model Canvas](/Canvas/Persona_Model.md)
+
+[Canvas de Mapeamento de Fontes de Dados](/Canvas/Data_Source_Mapping_Model.md) - [Canvas de Objetivos de Projeto](/Canvas/Project_Goals_Model)
 
 ## Início Rápido
 
