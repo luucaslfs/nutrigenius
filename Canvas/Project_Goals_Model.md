@@ -6,37 +6,32 @@ Preencha cada seção deste canvas com informações detalhadas sobre os objetiv
 
 ### 1. Objetivo Geral
 
-- Fornecer um assistente nutricional inteligente que apoie pacientes de nutricionistas na adesão a suas dietas, proporcionando sugestões de receitas personalizadas, tirando dúvidas e oferecendo um suporte contínuo e interativo.
+**Validar uma solução de nutrição personalizada que auxilie os usuários a planejar suas refeições, atingir suas metas de saúde e economizar tempo na preparação e compra de alimentos.**
 
 ### 2. Objetivos Específicos
 
-- Oferecer sugestões de receitas alinhadas ao perfil nutricional e restrições alimentares dos pacientes.
-- Fornecer respostas rápidas e precisas a dúvidas sobre substituições de ingredientes e modos de preparo.
-- Facilitar o planejamento de refeições semanais com base nos alimentos disponíveis.
-- Melhorar a adesão à dieta através de suporte contínuo e interativo.
-- Proporcionar recomendações de opções de refeições saudáveis quando os pacientes estão fora de casa.
+1. **Desenvolver um protótipo funcional de personalização de planos alimentares** que considere preferências pessoais, restrições dietéticas e metas de saúde dos usuários.
+2. **Implementar uma funcionalidade básica de planejamento de refeições e listas de compras** baseada nas receitas disponíveis na base de dados.
+3. **Realizar testes de usabilidade e coleta de feedback** com um grupo pequeno de usuários para validar a eficácia da solução.
+4. **Refinar a interface de usuário do chatbot** para garantir uma experiência intuitiva e envolvente.
 
 ### 3. Indicadores de Sucesso
 
-- Número de sugestões de receitas aceitas e utilizadas pelos pacientes.
-- Tempo de resposta médio às dúvidas dos pacientes.
-- Número de planos de refeições semanais gerados e seguidos.
-- Taxa de adesão à dieta dos pacientes.
-- Satisfação dos pacientes com o suporte recebido.
+1. **Número de planos alimentares personalizados** gerados durante a fase de teste.
+2. **Feedback positivo dos usuários** em relação à personalização e usabilidade dos planos alimentares.
+3. **Tempo médio gasto pelos usuários no planejamento de refeições** utilizando a solução.
+4. **Nível de satisfação dos usuários** com a interface do chatbot e a funcionalidade geral do protótipo.
 
 ### 4. Metas Quantitativas
 
-- Atingir uma taxa de aceitação de 80% para as sugestões de receitas em 6 meses.
-- Reduzir o tempo de resposta às dúvidas dos pacientes para menos de 1 minuto em 3 meses.
-- Gerar e seguir planos de refeições semanais para 70% dos pacientes em 6 meses.
-- Aumentar a taxa de adesão à dieta dos pacientes para 90% em 6 meses.
-- Atingir uma satisfação dos pacientes de 95% com o suporte recebido em 6 meses.
+1. **Gerar pelo menos 20 planos alimentares personalizados** durante a fase de teste.
+2. **Obter feedback positivo de pelo menos 70% dos usuários** testados quanto à personalização e usabilidade.
+3. **Reduzir o tempo médio gasto no planejamento de refeições em pelo menos 30%** durante os testes.
+4. **Obter uma avaliação de satisfação do usuário de pelo menos 4/5** durante a fase de teste.
 
 ### 5. Prazo para Alcance
 
-- 6 meses para atingir uma taxa de aceitação de 80% para as sugestões de receitas.
-- 3 meses para reduzir o tempo de resposta às dúvidas dos pacientes para menos de 1 minuto.
-- 6 meses para gerar e seguir planos de refeições semanais para 70% dos pacientes.
-- 6 meses para aumentar a taxa de adesão à dieta dos pacientes para 90%.
-- 6 meses para atingir uma satisfação dos pacientes de 95% com o suporte recebido.
-
+1. **2 meses para gerar 20 planos alimentares personalizados durante a fase de teste.**
+2. **8 meses para obter feedback positivo de pelo menos 70% dos usuários testados.**
+3. **8 meses para reduzir o tempo médio gasto no planejamento de refeições em pelo menos 30%.**
+4. **8 meses para obter uma avaliação de satisfação do usuário de pelo menos 4/5.**
